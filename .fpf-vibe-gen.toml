@@ -1,0 +1,10 @@
+# Ownership marker of fpf-vibe-gen: this package is generated; do not edit by hand.
+generator = "fpf-vibe-gen 0.1.0"
+package = "fpf-eng-fdm"
+version = "2026.929.0"
+upstream_url = "https://github.com/ailev/FPF"
+upstream_commit = "d131d30a44e78523e78da9d22aefd83e59f5e4a4"
+upstream_date = "2026-09-29T12:54:08+03:00"
+source_paths = ["Engineering DPF Suite/FINANCIAL-DOMAIN-MODELING-PRINCIPLES-FRAMEWORK.md"]
+files = 22
+tree_sha256 = "d9f803757392bbc1d4058050b841a6e3526320b9e3aafe5e1befd425cdd19540"

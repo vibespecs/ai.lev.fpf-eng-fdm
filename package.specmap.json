@@ -1,0 +1,1242 @@
+{
+  "code_items": [],
+  "edges": [],
+  "schema": 3,
+  "spec_units": [
+    {
+      "anchor": "root",
+      "content_hash": "sha256:8f2532de5796fb3fda71bae6b343aca6d859dd0d3eaa00bff26b0e5078d68353",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1 - Recover the Financial Position Behind a Record",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#root"
+    },
+    {
+      "anchor": "use-this-when",
+      "content_hash": "sha256:3dfc60dbe64f670d8c0d3ae3edfe632c33b8a5e5bc7f91a480433061fca5eb08",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1:0 - Use this when",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#use-this-when"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:f95024392f6d99030adba4f28509f088c3d7ae6a3c7d0b0148372b8e883f04f7",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1:1 - Problem frame",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:c5dbf922260e3515dcda384d4698575ac98af8b5b5af6a73962b56ac69b565bc",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:dc363eb4226d834c23863cdb15148c1f393d1943b714b5f015be01f075afc0bd",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1:3 - Forces",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:bd55aafe6751e9fbd7e96be0dbd4341626ebf3c09c585ee81aa2834f54b3ad27",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1:4 - Solution",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#solution"
+    },
+    {
+      "anchor": "state-the-financial-question-and-relevant-party",
+      "content_hash": "sha256:7b4e831bdd88579925501abf9cd5e5af0e96e5df32d65582e26e8b65cca58bde",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1:4.1 - State the financial question and relevant party",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#state-the-financial-question-and-relevant-party"
+    },
+    {
+      "anchor": "recover-the-position-from-its-applicable-basis",
+      "content_hash": "sha256:eb739a2cf2724ee65c799f15ee3991b605a1742874eddc97d1130e632a2c5495",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1:4.2 - Recover the position from its applicable basis",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#recover-the-position-from-its-applicable-basis"
+    },
+    {
+      "anchor": "relate-descriptions-and-resources-to-the-position",
+      "content_hash": "sha256:d79d6240014290fa9de07b0d6df860fe14e5860392929aae0f2041c144400aed",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1:4.3 - Relate descriptions and resources to the position",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#relate-descriptions-and-resources-to-the-position"
+    },
+    {
+      "anchor": "return-what-is-warranted-for-this-use",
+      "content_hash": "sha256:de1ecde848cfb32261429ff0f87dd76ff9816c4cbbfeee20be4281d8341aa48d",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1:4.4 - Return what is warranted for this use",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#return-what-is-warranted-for-this-use"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:e9836032218bd1b31d6a66701230df1eb85934a58fc93fce858662b202176db0",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1:7 - Conformance Checklist",
+      "line": 63,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:e0aed387915be420ecff2a4ba094252a328d0e4ae5b7a635a0793c6652544dfd",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1:9 - Consequences",
+      "line": 75,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:863c7327e541a06308d306dbbee07efc8a6134347e3a2a234ea0f97ee70e68f3",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "FDM.1:12 - Relations",
+      "line": 81,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:c2a2a1339663a878cb298cbe941ce889b605f16b92a2b243a57f2c8464b1fd00",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "Dependencies",
+      "line": 88,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:6abbd074f76fb018504ff90d789574326414acb6c9132db0e18a0a0b7f2aad61",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-spec/contract/A-2-8#root and spec://ai.lev/fpf-spec/contract/A-2-8-PER#root; spec://ai.lev/fpf-eng-fdm/contract/FDM-2#root for a disputed party. @status:spec/done",
+      "line": 90,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:0c6908643155d7aab01ecdfa7651ce13e71be6715887b4ea1f958724ff45d567",
+      "doc_path": "contract/FDM-1",
+      "file": "vibevm/vibespecs/contract/FDM-1.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-fdm/contract/FDM-2#root, spec://ai.lev/fpf-eng-fdm/contract/FDM-3#root, spec://ai.lev/fpf-eng-fdm/contract/FDM-4#root, spec://ai.lev/fpf-eng-fdm/contract/FDM-5#root @status:spec/done",
+      "line": 91,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-1#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:0a05d27a11021aa99e7691e87e75567e88dfb8759d3cc0c1a7dbdada4ac5d93b",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2 - Choose Party and Group Boundaries for Financial Modeling",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#root"
+    },
+    {
+      "anchor": "use-this-when",
+      "content_hash": "sha256:83c489732d9db6ae3c5032d84cc092c087cfd7dacf2c3204139491ad1959b116",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:0 - Use this when",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#use-this-when"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:8b02cdf60ea86d9496e7301872a0f94b5d544490f2159ebcf42c47c2b03834c1",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:1 - Problem frame",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:813089efe18518a470e607971d84504a93517918a09f4a460be67bc7b3f4bb4c",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:d2c12feee15c37408bfb5a6873a7c301c90d18b1bcd1b72fcf0ff419d7aca4c6",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:3 - Forces",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:e5466f9759d1289b4e0a421ca92f12141a1f8c5f5127b53e0e04e2849c1edf22",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:4 - Solution",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#solution"
+    },
+    {
+      "anchor": "start-with-the-financial-consequence-being-examined",
+      "content_hash": "sha256:d24a2749fea76c157a48f7a4faa64e0703353cc6c5a09dfc1f856a268ad68543",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:4.1 - Start with the financial consequence being examined",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#start-with-the-financial-consequence-being-examined"
+    },
+    {
+      "anchor": "state-why-these-members-belong-together",
+      "content_hash": "sha256:75885a73994dca702da6db67d2dc9efe7813cb8039eec3546c6aedf03ae23ef0",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:4.2 - State why these members belong together",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#state-why-these-members-belong-together"
+    },
+    {
+      "anchor": "recover-what-connects-the-positions",
+      "content_hash": "sha256:64356e3c9ea824ddb043ae83d81233cf4c4e5ae0e23b4ebc1bf1594f40e346ed",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:4.3 - Recover what connects the positions",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#recover-what-connects-the-positions"
+    },
+    {
+      "anchor": "build-the-warranted-aggregate",
+      "content_hash": "sha256:a9295b950d9acbff2559865a0a877da57d1534a2757f40b95078e174e10d5a82",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:4.4 - Build the warranted aggregate",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#build-the-warranted-aggregate"
+    },
+    {
+      "anchor": "return-the-boundary-and-its-financial-meaning",
+      "content_hash": "sha256:47fb7d181713abe8c9ecdb3687306048c2bfa5df8989479978e0c4f25aab60bb",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:4.5 - Return the boundary and its financial meaning",
+      "line": 63,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#return-the-boundary-and-its-financial-meaning"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:281c174a2db12e218b369c52f5a9498d395ed1df8fad8516cc4dff0c1dab048f",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:7 - Conformance Checklist",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:79dd8665b17bc1c33b2a9684d2139d625700c67e5aced1d522df53fbee873709",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:9 - Consequences",
+      "line": 81,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:e7e715699334d159bace293a17c56b2e4e815b17de44b1a5d0bebad52bdd23ed",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "FDM.2:12 - Relations",
+      "line": 87,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:7b58d96ec9676f84d9df905b89d0a634010840c003f8ff830c7a32c036d8e995",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "Dependencies",
+      "line": 94,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:6b35b7820f84f89e6c372f0a6c156106126507f331fd58c958366e208c8a0b63",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-fdm/contract/FDM-1#root for positions; spec://ai.lev/fpf-eng-sie/contract/SIE-5#root–6 for identity and composition. @status:spec/done",
+      "line": 96,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:6b0dd7ad355ade533ffa1c49d6234ec786be49103f4e0473fca6bcd8a6cc1d38",
+      "doc_path": "contract/FDM-2",
+      "file": "vibevm/vibespecs/contract/FDM-2.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-fdm/contract/FDM-1#root @status:spec/done",
+      "line": 97,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-2#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:ad417c247e03b5e3cd18f994a0d04cb41b6cc46f43171ba4203cc128037fcd16",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3 - Derive Events and Conditional Flows from Financial Contract Terms",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#root"
+    },
+    {
+      "anchor": "use-this-when",
+      "content_hash": "sha256:e7860c6ea05892034b14df2b3ada4afcef8a0abc82cc9db3e66a4d45436af851",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:0 - Use this when",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#use-this-when"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:dc11ea84d33217e058592d7ad85ea2565026819ffba6f2759172e74c17dd1bbe",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:1 - Problem frame",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:2e37c54adf13d82fe9a624c938d04e542d811c03a67aa716afce750c49473090",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:23bc744d267d21f51233f2fc22b53395cd6cf52de3b30c9066e15bc10c013bbb",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:3 - Forces",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:7cbe0cd6be21e4ca80d4d50cc2beedcfeb07ef6af891395504f8cef9a2be97a6",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:4 - Solution",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#solution"
+    },
+    {
+      "anchor": "recover-the-arrangement-and-intended-question",
+      "content_hash": "sha256:ec7761d423b024fb73a73e421f1c470769c8baace4ae7a6083f9cbe52c3e9ef9",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:4.1 - Recover the arrangement and intended question",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#recover-the-arrangement-and-intended-question"
+    },
+    {
+      "anchor": "extract-the-terms-that-determine-the-events",
+      "content_hash": "sha256:a32fffd6d2d1e1076a786af536c1208fd029b3368b5659e08ccb6d5c344bbfd4",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:4.2 - Extract the terms that determine the events",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#extract-the-terms-that-determine-the-events"
+    },
+    {
+      "anchor": "derive-and-inspect-contractual-behavior",
+      "content_hash": "sha256:11f4a5d96f547e1b753071f4db1cf1499974ecf73e9552cf351cfb606215b3c2",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:4.3 - Derive and inspect contractual behavior",
+      "line": 51,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#derive-and-inspect-contractual-behavior"
+    },
+    {
+      "anchor": "add-scenarios-and-performance-without-replacing-the-contract",
+      "content_hash": "sha256:f99e8c92188275bbe10ba6932838ffa330718911715124c6eb080d754fbcfe66",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:4.4 - Add scenarios and performance without replacing the contract",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#add-scenarios-and-performance-without-replacing-the-contract"
+    },
+    {
+      "anchor": "return-the-usable-event-model-and-its-limits",
+      "content_hash": "sha256:a8bd432dea795658bae05ab365bba3bd97959d09024a7f2b40ae4d29c61ff3b6",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:4.5 - Return the usable event model and its limits",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#return-the-usable-event-model-and-its-limits"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:44353887bd4d48933b742dd9e5b70461d20f1a2f1a7840a67443054b712a7c32",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:7 - Conformance Checklist",
+      "line": 73,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:65218794484406f12e6407b3d16b8454aa85288dc3141b074d26f3f824ccbc7f",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:9 - Consequences",
+      "line": 86,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:9ac6b3e24855ada5d18d6ef43389aec6c953eb8a4275ddfbbaebf5b8c3572e6c",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "FDM.3:12 - Relations",
+      "line": 92,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:abc3904e118735defe427d59c318a0bd15c1248069490fa07e0ab723d2bab576",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "Dependencies",
+      "line": 99,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:370e03a7cdc2a01f40ed75552b54b1e66ad67a2673ee5059d9661ea3df53cc02",
+      "doc_path": "contract/FDM-3",
+      "file": "vibevm/vibespecs/contract/FDM-3.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-fdm/contract/FDM-1#root–2 for terms and parties; actual effects use spec://ai.lev/fpf-eng-fdm/contract/FDM-4#root. @status:spec/done",
+      "line": 101,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-3#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:7b2343eae3f5967779e55bf267bbe7badb90361efd2ab86beeec23588040ad1c",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4 - Establish What a Financial Action Changed",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#root"
+    },
+    {
+      "anchor": "use-this-when",
+      "content_hash": "sha256:782bf6d9afc6e10ae2f9f4bf4fb0e3bec6de193542b2c9987e349bca2e6ea1f9",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:0 - Use this when",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#use-this-when"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:535dad9765d0d75f127701f242a295bc0cd0e6046dcd396e5344fbf6f73a04e7",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:1 - Problem frame",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:6e6dd20612e13f7ed5bf9980830582229e50b208b49869a27c283d17042a84c9",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:98d43338041f3c975238d3a73dc10778b26d5d5011a15de3f895fce7abd9aba4",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:3 - Forces",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:eda7ad8a02e157543f12e2df9c4b467895dfb20136da92506b282148d90b3c76",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:4 - Solution",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#solution"
+    },
+    {
+      "anchor": "name-the-claimed-change-and-prior-position",
+      "content_hash": "sha256:b3a0c21f8b2339541aac05f9a4267485f2fb22dd599d650fddf8c794388460d1",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:4.1 - Name the claimed change and prior position",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#name-the-claimed-change-and-prior-position"
+    },
+    {
+      "anchor": "recover-the-rule-that-gives-the-event-its-effect",
+      "content_hash": "sha256:9e52e8a48fdf9608c1ad6f2be34122bc2e66ff15a72e7d4ee1ff75596ccfd9ce",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:4.2 - Recover the rule that gives the event its effect",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#recover-the-rule-that-gives-the-event-its-effect"
+    },
+    {
+      "anchor": "establish-what-actually-occurred",
+      "content_hash": "sha256:66c0934281f20606b45476983732379c514cdd2e0f7a46a35ed38f295d1c6fb0",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:4.3 - Establish what actually occurred",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#establish-what-actually-occurred"
+    },
+    {
+      "anchor": "derive-the-effect-and-remaining-position",
+      "content_hash": "sha256:8bb2f889700810d9ffd2638b39dd5c3a30446dc90a9cd79ad90286391f8080bf",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:4.4 - Derive the effect and remaining position",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#derive-the-effect-and-remaining-position"
+    },
+    {
+      "anchor": "return-the-result-needed-by-the-next-user",
+      "content_hash": "sha256:4af13a45b7e511a053cb8c50b9f7bd6a5345f536d7203658f407c871fea1defc",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:4.5 - Return the result needed by the next user",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#return-the-result-needed-by-the-next-user"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:25e11087c330c4b32a878595740bd05ae82ffabe5fed85dc0d4b04974073b4c8",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:7 - Conformance Checklist",
+      "line": 73,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:e2ce2b1749527783157d375e35465665a676e405d71829a1de5b292a20aa019e",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:9 - Consequences",
+      "line": 86,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:620c8d2bde7c8955556983455fb5203e2cdb5508630b8d55f898a858abf7de2d",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "FDM.4:12 - Relations",
+      "line": 92,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:44cebdef9b9ad41bfafb600b658028b148f33b5faf48f3693255675f6342c23b",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "Dependencies",
+      "line": 99,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:61006d03bb125c9ed30802d15b3d2ed6dd858ab41d2cb8375a1489ba21442c0e",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-fdm/contract/FDM-1#root–3; applicable institutional rule and event evidence. @status:spec/done",
+      "line": 101,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:83a147a4788c2577e631501161e0987fff25a1fb1184fefbb457cac869680acb",
+      "doc_path": "contract/FDM-4",
+      "file": "vibevm/vibespecs/contract/FDM-4.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-fdm/contract/FDM-3#root @status:spec/done",
+      "line": 102,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-4#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:21d2b473ca1647fe11fe55042ce251a2a8ad17d95ef6be5b26359e13b1b281ae",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5 - Trace a Financial Service to a Participant's Result",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#root"
+    },
+    {
+      "anchor": "use-this-when",
+      "content_hash": "sha256:d406765baa16c207a75b228cfcd0b71afdad0dc638113a792ec2c27e64a116a6",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:0 - Use this when",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#use-this-when"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:d2241deaded8998ab41756b6cee5db511938d1016d8c85f7a97479b0c78ef569",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:1 - Problem frame",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:779648905b8b75f3f37a99ad173f9b6f54e4fc475d4c601f487e6148fc40e94c",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:d846a638b514d3a5ccd9a445d54875fadae6bfbb18a9c86bb594a0cca38799be",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:3 - Forces",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:dd586b152b28681fb417e178e162debd7c892666c0e49bc5ec36007e1197ce9c",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:4 - Solution",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#solution"
+    },
+    {
+      "anchor": "name-the-participant-and-intended-result",
+      "content_hash": "sha256:d660762d97e200b3df1a45107a3ee5732ecfd948ed12e5bbcd94b43a3382f250",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:4.1 - Name the participant and intended result",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#name-the-participant-and-intended-result"
+    },
+    {
+      "anchor": "locate-the-output-and-its-actual-receiver",
+      "content_hash": "sha256:d588357583d27bae00de7ab655b180ecb30ba7db7a54b052327471fd25f65c26",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:4.2 - Locate the output and its actual receiver",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#locate-the-output-and-its-actual-receiver"
+    },
+    {
+      "anchor": "follow-the-use-through-the-financial-effect",
+      "content_hash": "sha256:c84b2a61866421a87b28f9f9c461464089a4c42e73dd0ff2a36b59a029c99a6d",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:4.3 - Follow the use through the financial effect",
+      "line": 51,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#follow-the-use-through-the-financial-effect"
+    },
+    {
+      "anchor": "examine-the-contribution-and-its-failure-points",
+      "content_hash": "sha256:b6a36444895a528fc2229478e5c7970bbc4d4020c85738839eb0e165eb79181a",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:4.4 - Examine the contribution and its failure points",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#examine-the-contribution-and-its-failure-points"
+    },
+    {
+      "anchor": "return-a-qualified-contribution-and-next-action",
+      "content_hash": "sha256:ddcdfa2c6b86f2936a497b6349bdf4f19c97101322ee996857dfbb7ba10d125d",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:4.5 - Return a qualified contribution and next action",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#return-a-qualified-contribution-and-next-action"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:675068cc0a72c6f30b816330b2a65a7c1122c7936f8d03daf1d5392cdc71c456",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:7 - Conformance Checklist",
+      "line": 73,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:96097c51ec3c0f5a26af5240cd25c63715f1f205153ca2418393be0005975821",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:9 - Consequences",
+      "line": 86,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:539c3d460b60ae3ccb056ddb9eb70d33247cfbc4ddc6dc3882b5fa8a6e24f8a8",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "FDM.5:12 - Relations",
+      "line": 92,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:2263d9c0b74dd7b5dc61382212609f3b4062c203f8476ec63a6e8ef9c9ffd397",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "Dependencies",
+      "line": 99,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:ec9cf3f90bccd874a1598116b534ad432d876797dec0205acbe85b28ef310e30",
+      "doc_path": "contract/FDM-5",
+      "file": "vibevm/vibespecs/contract/FDM-5.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-fdm/contract/FDM-1#root–4 when financial meaning or effect is missing; relevant decision practice. @status:spec/done",
+      "line": 101,
+      "uri": "spec://ai.lev/fpf-eng-fdm/contract/FDM-5#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:cf0617909a37cd08fad02287059371ae3998551a36122d29c53b1a3e881bea23",
+      "doc_path": "pub/ABOUT",
+      "file": "vibevm/vibespecs/pub/ABOUT.md",
+      "heading": "Financial Domain Modeling Principles Framework",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/ABOUT#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:58024b9c27f14bcd15e81397f45a71dfbacd8e3cbd9c3981e8cc29e3dec83223",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "Preface",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/PREFACE#root"
+    },
+    {
+      "anchor": "preface-1",
+      "content_hash": "sha256:d194ed835597bab894931b22f51b3b0eb5e888cb5c371f2376c14ce14ea7f0e5",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "FDM.Preface:1 - The working problem",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/PREFACE#preface-1"
+    },
+    {
+      "anchor": "preface-2",
+      "content_hash": "sha256:53d28056d0bea0e0f018d7e30983374a3302488296a2d020e102a3ebd9b184a4",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "FDM.Preface:2 - How the methods connect",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/PREFACE#preface-2"
+    },
+    {
+      "anchor": "preface-3",
+      "content_hash": "sha256:1e17dbb7cbd09e8e5700cf94d45e25e6b2aff8497c69f3a3f3ef70707e604494",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "FDM.Preface:3 - Connect models by the financial question",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/PREFACE#preface-3"
+    },
+    {
+      "anchor": "preface-4",
+      "content_hash": "sha256:eb65412cb79469d716fe6317676e5ac20f6b29dd1797cf5906b709e6e2c12e9d",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "FDM.Preface:4 - Parties, resources and several useful structures",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/PREFACE#preface-4"
+    },
+    {
+      "anchor": "preface-5",
+      "content_hash": "sha256:8b512b063786c44bb9ab2f78b67af8d8ca9b8b951f4eefd2a20a03d087ff7bba",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "FDM.Preface:5 - Practical gain, cost and evidence",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/PREFACE#preface-5"
+    },
+    {
+      "anchor": "preface-6",
+      "content_hash": "sha256:03f1ac0561de6b6df2063a492044ca710707761e7769f938d4df56f442977fc9",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "FDM.Preface:6 - Source choices and alternatives",
+      "line": 62,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/PREFACE#preface-6"
+    },
+    {
+      "anchor": "preface-7",
+      "content_hash": "sha256:170501af5409c9ffc4c8ef445b221e7659dd162ba87dceaf62b180559e4c6e96",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "FDM.Preface:7 - Using the connected account correctly",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/PREFACE#preface-7"
+    },
+    {
+      "anchor": "preface-end",
+      "content_hash": "sha256:434b45fedd2890894c49860dc0fa55db475175652c58e85e136ab637ca287ee5",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "FDM.Preface:End",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/PREFACE#preface-end"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:a0e0ed91434b55be651af7a63c5d5b52b5d6dc7ad301bee806b9d201b709d680",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Financial Domain Modeling Readme",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/README#root"
+    },
+    {
+      "anchor": "practical-entries",
+      "content_hash": "sha256:9580671b0553e13cc39249f2c1c546e94c5cb5d6390cef46d91ee37515570cad",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Practical entries",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/README#practical-entries"
+    },
+    {
+      "anchor": "fdm-e1-a-score-is-presented-as-a-financial-benefit",
+      "content_hash": "sha256:f7d1f37e72cdfbe2bfbfb7445b924b0fc28b3a5f1ebec839efe04b7062bfc269",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "FDM-E1 — A score is presented as a financial benefit",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/README#fdm-e1-a-score-is-presented-as-a-financial-benefit"
+    },
+    {
+      "anchor": "fdm-e2-a-group-s-cash-is-used-to-justify-one-entity-s-payment",
+      "content_hash": "sha256:12f1e5f59426eb0fbeead515128cdb3c01a513d4865b06679efb17335404f159",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "FDM-E2 — A group's cash is used to justify one entity's payment",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/README#fdm-e2-a-group-s-cash-is-used-to-justify-one-entity-s-payment"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:88b3d312f77198d19e666dffd960220c6cd43e9c05e29a21699a095180ecaba2",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Table of Contents",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/TOC#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:02413eb9d37b065d65abab374d673cb08764ec098ecdc1c8fd95cc3ea2c7c167",
+      "doc_path": "pub/references",
+      "file": "vibevm/vibespecs/pub/references.md",
+      "heading": "References",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/references#root"
+    },
+    {
+      "anchor": "edition-record",
+      "content_hash": "sha256:245a826110db9514a0896ada0937384c2f91736329681e882e4c03025fedd843",
+      "doc_path": "pub/references",
+      "file": "vibevm/vibespecs/pub/references.md",
+      "heading": "Edition record",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/references#edition-record"
+    },
+    {
+      "anchor": "source-locators",
+      "content_hash": "sha256:0864a955570ebf6d6b3ab4ce871a3e879fad59d23c12f76beea2ad6de6a907c2",
+      "doc_path": "pub/references",
+      "file": "vibevm/vibespecs/pub/references.md",
+      "heading": "Source locators",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-fdm/pub/references#source-locators"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:0ac797a0a9ca7bb6d4a8c13b37a75374dc30502e9c0574c9d4562617fbc18ddc",
+      "doc_path": "source/FDM-1",
+      "file": "vibevm/vibespecs/source/FDM-1.md",
+      "heading": "FDM.1 - Recover the Financial Position Behind a Record: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-1#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:d9781bbbeef84ef5108306211a1961eb8ab01f2e240e4c615a77ef1a71ea3037",
+      "doc_path": "source/FDM-1",
+      "file": "vibevm/vibespecs/source/FDM-1.md",
+      "heading": "FDM.1:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-1#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:acc0e1d36231523d1fde8839070dd97da2cb89c07c875ab94d4ac08407388365",
+      "doc_path": "source/FDM-1",
+      "file": "vibevm/vibespecs/source/FDM-1.md",
+      "heading": "FDM.1:6 - Bias-Annotation",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-1#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:b934e1ad17f029a11d65086a7bbe1410a2b579333f59dd90e680c03406ce7f5d",
+      "doc_path": "source/FDM-1",
+      "file": "vibevm/vibespecs/source/FDM-1.md",
+      "heading": "FDM.1:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-1#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:18dbf00827d7be7018aaf188d89cfcbea61f29b49b2d1850892e56a42dd4e98a",
+      "doc_path": "source/FDM-1",
+      "file": "vibevm/vibespecs/source/FDM-1.md",
+      "heading": "FDM.1:10 - Architectural Rationale",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-1#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:0087889a8c272949b22baa9d9eed5a7146887f897299e3f48cc80f8406df9876",
+      "doc_path": "source/FDM-1",
+      "file": "vibevm/vibespecs/source/FDM-1.md",
+      "heading": "FDM.1:11 - SoTA-Echoing",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-1#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:d8da84dd37faa5497d7e585d67ee30e2c52a597c5663eacddbfe2029ac942749",
+      "doc_path": "source/FDM-1",
+      "file": "vibevm/vibespecs/source/FDM-1.md",
+      "heading": "FDM.1:End",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-1#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:b934301f3a0e2e6aba4812f4ec4e256241f76d90fc68cf85da2e5d4852e9b586",
+      "doc_path": "source/FDM-2",
+      "file": "vibevm/vibespecs/source/FDM-2.md",
+      "heading": "FDM.2 - Choose Party and Group Boundaries for Financial Modeling: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-2#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:597498067c64fe776f555f206f9b77ee16c0aa6e3536c5f4fed3fd752ab2044c",
+      "doc_path": "source/FDM-2",
+      "file": "vibevm/vibespecs/source/FDM-2.md",
+      "heading": "FDM.2:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-2#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:7eb683b620929e65b66ead97e8eb1090ee57494e6cadb55e676a994a7fb9b272",
+      "doc_path": "source/FDM-2",
+      "file": "vibevm/vibespecs/source/FDM-2.md",
+      "heading": "FDM.2:6 - Bias-Annotation",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-2#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:ef5c04008476051523585a001c9cebb6c7557f701560223759371d2097b3d49e",
+      "doc_path": "source/FDM-2",
+      "file": "vibevm/vibespecs/source/FDM-2.md",
+      "heading": "FDM.2:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-2#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:f3e1933ecc1d72d18f809ccffd460d669c2bb30eff83cbdecfd4dd81c86bc7cd",
+      "doc_path": "source/FDM-2",
+      "file": "vibevm/vibespecs/source/FDM-2.md",
+      "heading": "FDM.2:10 - Architectural Rationale",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-2#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:84f1cc0ed8d9e53d806e7ab67787748aa9d9407a34a8cb7aabb140bcafa52862",
+      "doc_path": "source/FDM-2",
+      "file": "vibevm/vibespecs/source/FDM-2.md",
+      "heading": "FDM.2:11 - SoTA-Echoing",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-2#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:d97bb7bb805e3de8f0c99a0539e6bc53272e9d5a8ad6c3445cdc4cf83e95340b",
+      "doc_path": "source/FDM-2",
+      "file": "vibevm/vibespecs/source/FDM-2.md",
+      "heading": "FDM.2:End",
+      "line": 48,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-2#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:ce4d4b73e47d3bb0b58ffee5e46d5ff728b6ba35a0a8c1f45dd487034d1097ca",
+      "doc_path": "source/FDM-3",
+      "file": "vibevm/vibespecs/source/FDM-3.md",
+      "heading": "FDM.3 - Derive Events and Conditional Flows from Financial Contract Terms: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-3#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:41397da753b74ca99d5b454c45e37b6f5f9eb2ba61d01a8856450eb0e2d60199",
+      "doc_path": "source/FDM-3",
+      "file": "vibevm/vibespecs/source/FDM-3.md",
+      "heading": "FDM.3:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-3#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:1f47123e63b6119efd766b91bcf806b47fc2c16150f91cddad0d7261528db473",
+      "doc_path": "source/FDM-3",
+      "file": "vibevm/vibespecs/source/FDM-3.md",
+      "heading": "FDM.3:6 - Bias-Annotation",
+      "line": 24,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-3#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:ad7b8cd8d445134fa14768f54d2c999d70cb2d33173047478635ca043c95ec61",
+      "doc_path": "source/FDM-3",
+      "file": "vibevm/vibespecs/source/FDM-3.md",
+      "heading": "FDM.3:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-3#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:a5ab93c1990dcccb4951b760d39fa7a9407df19de0b121ece518df201c9877e6",
+      "doc_path": "source/FDM-3",
+      "file": "vibevm/vibespecs/source/FDM-3.md",
+      "heading": "FDM.3:10 - Architectural Rationale",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-3#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:570783bb1e1252fa189b4d5b7a5c131cb8316c2a4d4a3470ac8139e6b14fcfa4",
+      "doc_path": "source/FDM-3",
+      "file": "vibevm/vibespecs/source/FDM-3.md",
+      "heading": "FDM.3:11 - SoTA-Echoing",
+      "line": 44,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-3#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:90054dec705e28e398d54ef3ee79d20754f4e98a1bca8ceb8845d921562d8a7a",
+      "doc_path": "source/FDM-3",
+      "file": "vibevm/vibespecs/source/FDM-3.md",
+      "heading": "FDM.3:End",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-3#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:b648d2231129b2a663e546914ac9461c1f7f3a5fdb5253b072c6c16bee9d91a8",
+      "doc_path": "source/FDM-4",
+      "file": "vibevm/vibespecs/source/FDM-4.md",
+      "heading": "FDM.4 - Establish What a Financial Action Changed: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-4#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:49c6f288ba21013c8fb1db56d08a9de5f8eba208a0e2930e6dfd370b8651d268",
+      "doc_path": "source/FDM-4",
+      "file": "vibevm/vibespecs/source/FDM-4.md",
+      "heading": "FDM.4:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-4#archetypal-grounding"
+    },
+    {
+      "anchor": "a-payment-an-instruction-and-a-modification",
+      "content_hash": "sha256:d3c73b58e922f4be70004ea4a78700d433087f9d2ff6abd80003e15c48940dd6",
+      "doc_path": "source/FDM-4",
+      "file": "vibevm/vibespecs/source/FDM-4.md",
+      "heading": "FDM.4:5.1 - A payment, an instruction and a modification",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-4#a-payment-an-instruction-and-a-modification"
+    },
+    {
+      "anchor": "deriving-the-position-through-an-interpreted-calculation",
+      "content_hash": "sha256:315dad24fbe3e2543233d52325e72e055ecbb9dee8d7d39e2db905b1e1868d4e",
+      "doc_path": "source/FDM-4",
+      "file": "vibevm/vibespecs/source/FDM-4.md",
+      "heading": "FDM.4:5.2 - Deriving the position through an interpreted calculation",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-4#deriving-the-position-through-an-interpreted-calculation"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:7114b006c40455e96b6103a7e9a1fff277781f026a69b44f4c6182f2a086dac8",
+      "doc_path": "source/FDM-4",
+      "file": "vibevm/vibespecs/source/FDM-4.md",
+      "heading": "FDM.4:6 - Bias-Annotation",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-4#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:759a32782f1f4dd61db5756a89a97a4e1f443ca2cb8dd1345f1a15429d4d57fd",
+      "doc_path": "source/FDM-4",
+      "file": "vibevm/vibespecs/source/FDM-4.md",
+      "heading": "FDM.4:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-4#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:bf2e06340814fe3afdd0ce1b0653de5649a8bac603835b7cc4ae75551c41bb73",
+      "doc_path": "source/FDM-4",
+      "file": "vibevm/vibespecs/source/FDM-4.md",
+      "heading": "FDM.4:10 - Architectural Rationale",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-4#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:b9b988088e257c1d9bf41316250100f5ed103cf498d1cccb4ab8097a4ce68295",
+      "doc_path": "source/FDM-4",
+      "file": "vibevm/vibespecs/source/FDM-4.md",
+      "heading": "FDM.4:11 - SoTA-Echoing",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-4#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:3dd126b1826252ec143ad0989d7c46a477d7c00fdc7eeaf704a9c10595987240",
+      "doc_path": "source/FDM-4",
+      "file": "vibevm/vibespecs/source/FDM-4.md",
+      "heading": "FDM.4:End",
+      "line": 58,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-4#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:d6747d6305e98aaadd1803ef9f417840b028abec9db157eeb84f258fb02b4d72",
+      "doc_path": "source/FDM-5",
+      "file": "vibevm/vibespecs/source/FDM-5.md",
+      "heading": "FDM.5 - Trace a Financial Service to a Participant's Result: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-5#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:68d5c5cbba084689bfdbd2370f9636d137d78f86d32b289f8222db75319c47cc",
+      "doc_path": "source/FDM-5",
+      "file": "vibevm/vibespecs/source/FDM-5.md",
+      "heading": "FDM.5:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-5#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:a5596c7084bb172b7871bd2fa14778b6eb7776128851260ba5fa8ffa6f3f45fa",
+      "doc_path": "source/FDM-5",
+      "file": "vibevm/vibespecs/source/FDM-5.md",
+      "heading": "FDM.5:6 - Bias-Annotation",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-5#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:eda3928fab7475d270220bd0ce1a6f179f92c75f15f522ab27d3b7da01ee3e06",
+      "doc_path": "source/FDM-5",
+      "file": "vibevm/vibespecs/source/FDM-5.md",
+      "heading": "FDM.5:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-5#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:265fe54a3363c4bc55fe902dce8daa758391d3165b0451f2b6edd1b09dec88c3",
+      "doc_path": "source/FDM-5",
+      "file": "vibevm/vibespecs/source/FDM-5.md",
+      "heading": "FDM.5:10 - Architectural Rationale",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-5#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:067d0505ff04abbf372719c437f7c385f3cb683e78ab0a67bdb12e84a35f5589",
+      "doc_path": "source/FDM-5",
+      "file": "vibevm/vibespecs/source/FDM-5.md",
+      "heading": "FDM.5:11 - SoTA-Echoing",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-5#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:1670d7a7fde3d132210d54e9f32543bef48b007b6276fe8a38d24bc7c4002769",
+      "doc_path": "source/FDM-5",
+      "file": "vibevm/vibespecs/source/FDM-5.md",
+      "heading": "FDM.5:End",
+      "line": 48,
+      "uri": "spec://ai.lev/fpf-eng-fdm/source/FDM-5#end"
+    }
+  ],
+  "suspects": [],
+  "warnings": []
+}
